@@ -1,0 +1,36 @@
+Projeto online: http://testegustavo.web2109.uni5.net/
+
+O bloqueio de ip está configurado com duração de 30 Segundos. (3 tentativas).
+
+
+Usuários:
+
+- Administrador
+User: superadmin@gmail.com
+Senha: pass123
+
+
+- Colaborador
+User: colaborador1@gmail.com
+Senha: 12345678
+
+User: colaborador2@gmail.com
+Senha: 12345678
+
+
+- Fornecedor
+User: fornecedor1@gmail.com
+Senha: 12345678
+
+User: fornecedor2@gmail.com
+Senha: 12345678
+
+--
+Web Service
+Autorização - Tipo Bearer token
+Token: FKSH-DKDV-WYXFG-DGDS
+Método: POST
+
+URL online para testar ws: http://testegustavo.web2109.uni5.net/ws/get_pedidos_json
+Localhost: http://localhost/ws/get_pedidos_json
+
